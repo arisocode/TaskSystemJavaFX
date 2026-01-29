@@ -67,5 +67,16 @@ Esta estructura facilita el mantenimiento, escalabilidad y buenas prácticas de 
 1. Una vez abierto el proyecto ejecutar la clase: TaskApplication la cual ejecuta la clase TaskSystemFx
 2. Disfrutar de la interfaz y de su funcionalidad
 
+---
+
+<img width="1600" height="936" alt="image" src="https://github.com/user-attachments/assets/f2ff0f14-05ee-498d-9f56-f5d1377c0a26" />
+<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/cbcb8098-46a8-4d20-8ecd-db837fb05e5d" />
+
+---
+
+## Autor
+
+Desarrollado por Ariadna Cabrera - Java University (Udemy)
+
 
 
