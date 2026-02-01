@@ -4,7 +4,7 @@
 
 Sistema de Tareas es una aplicación de escritorio desarrollada con **JavaFX** para la interfaz gráfica y **Spring Boot** para la lógica de negocio y persistencia de datos.
 
-Permite gestionar tareas de forma sencilla mediante operaciones CRUD (crear, modificar, eliminar y listar), integrando tecnologías modernas de Java en una arquitectura por capas.
+Permite gestionar tareas de forma sencilla mediante operaciones CRUD (crear, modificar, eliminar y listar), integrando tecnologías modernas de Java en una arquitectura por capas. hola
 
 ---
 
